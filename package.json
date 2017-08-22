@@ -43,12 +43,13 @@
     "ethereumjs-tx": "^1.2.5",
     "ethereumjs-util": "^5.1.1",
     "ethereumjs-vm": "^2.0.2",
+    "loophole": "^1.1.0",
     "merkle-patricia-tree": "^2.1.2",
     "react": "^15.4.2",
     "react-addons-update": "^15.4.2",
     "react-dom": "^15.4.2",
     "solc": "^0.4.11",
-    "web3": "^0.18.2"
+    "web3": "^1.0.0-beta.18"
   },
   "configSchema": {
     "rpcAddress": {
